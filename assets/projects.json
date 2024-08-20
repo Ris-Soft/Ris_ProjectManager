@@ -1,0 +1,26 @@
+{
+    "testApp": {
+        "type": "common",
+        "showName": "\u793a\u4f8b\u9879\u76ee",
+        "version": "1.1.0",
+        "describe": "\u9884\u7f6e\u9879\u76ee",
+        "detail": "\u8f6f\u4ef6\u63cf\u8ff0\u652f\u6301MD\u6587\u672c\n\u8fd9\u662f\u4e00\u4e2a\u9884\u7f6e\u7684\u9879\u76ee\uff0c\u7528\u6765\u6f14\u793a\u529f\u80fd",
+        "logoUrl": ".host/assets/img/appIcon/default.ico",
+        "support": true,
+        "focusUpdate": true,
+        "update": {
+            "1.0.0": {
+                "changeLog": "\u4fee\u590d\u4e86\u5df2\u77e5\u95ee\u9898",
+                "downloadUrl": ""
+            },
+            "1.1.0": {
+                "changeLog": "\u5982\u679c\u4e0e\u5f53\u524d\u7248\u672c\u4e00\u81f4\uff0c\u4f1a\u5728\u4e0a\u65b9\u663e\u793a\u54e6",
+                "downloadUrl": ""
+            }
+        },
+        "screenshots": {
+            "default": ".host/assets/img/screenshots/testApp/default.png",
+            "default2": ".host/assets/img/screenshots/testApp/default-2.png"
+        }
+    }
+}
